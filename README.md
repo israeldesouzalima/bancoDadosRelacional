@@ -3,5 +3,6 @@ Conteúdos dados na matéria de Banco de Dados Relacional, utilizando Oracle com
 
 ### Índice
 - [View](./view/view.md)
-- Sequence
-- Trigger
+- [Sequence](./sequence/sequence.md)
+- [Trigger](./trigger/trigger.md)
+- [criação de tabela de backup](./criar-tabela-de-backup/bkp.md)
